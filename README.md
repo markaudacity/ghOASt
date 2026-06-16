@@ -1,4 +1,4 @@
-# OPEN AMIGA SAMPLER
+# ghOASt: a spectre is haunting open-source retro sampling
 
 ## Open source schematics, parts lists and documentation for building a generic 8bit/mono Amiga parallel port sound sampler
 
